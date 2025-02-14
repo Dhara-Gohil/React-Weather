@@ -17,17 +17,10 @@ A simple **React.js Weather App** using **OpenWeather API** to fetch real-time w
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/weather-app.git
-    cd weather-app
-    npm install
-    npm start
+   cd weather-app
+   npm install
+   npm start
 
 
 ---
 
-### **2. Commit and Push to GitHub**
-Once you've saved the file, run these commands in your terminal:
-
-```sh
-git add README.md
-git commit -m "Added README file"
-git push origin main
