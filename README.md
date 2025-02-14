@@ -1,8 +1,44 @@
-# React + Vite
+echo "# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React.js Weather App** using **OpenWeather API** to fetch real-time weather details like temperature, humidity, and conditions. The UI updates dynamically with relevant icons and background images.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Search for any city
+- Displays temperature, humidity, and weather conditions
+- Dynamic icons and background changes based on weather
+- Error handling for invalid city names
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- React.js
+- Material UI
+- OpenWeather API
+
+## 📦 Installation & Usage
+1. Clone the repository:
+   \`\`\`sh
+   git clone https://github.com/your-username/weather-app.git
+   \`\`\`
+2. Navigate to the project folder:
+   \`\`\`sh
+   cd weather-app
+   \`\`\`
+3. Install dependencies:
+   \`\`\`sh
+   npm install
+   \`\`\`
+4. Run the app:
+   \`\`\`sh
+   npm start
+   \`\`\`
+
+## 🌐 API Key Setup
+Replace \`API_KEY\` in \`searchbox.jsx\` with your OpenWeather API key.
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
+
+---
+
+### 🔗 [Live Demo](your-live-demo-link)  
+Feel free to contribute or give feedback! 😊
+" > README.md
