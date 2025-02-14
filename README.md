@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# 🌦️ React - Weather App
 
 A simple **React.js Weather App** using **OpenWeather API** to fetch real-time weather details like temperature, humidity, and conditions. The UI updates dynamically with relevant icons and background images.
 
